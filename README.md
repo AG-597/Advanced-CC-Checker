@@ -13,7 +13,7 @@ Skids, i know your just drooling at the sight of another open source project for
 # Installation 
 
 - Paste your discord account auth tokens into `tokens.txt`
-- Get a bot token from the discord eveloper portal
+- Get a bot token from the discord developer portal
 - Paste that token into the `token` feild in `main.py`
 - Run `main.py`
 
