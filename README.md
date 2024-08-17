@@ -10,6 +10,7 @@ Please star, i'll fix mass checking at 50 stars or make a v2 with more options (
 
 # Installation 
 
+- Paste your discord account auth tokens into `tokens.txt`
 - Get a bot token from the discord eveloper portal
 - Paste that token into the `token` feild in `main.py`
 - Run `main.py`
