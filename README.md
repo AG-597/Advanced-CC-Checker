@@ -3,6 +3,8 @@ This is a discord bot used to check credit cards, it can check if the card is li
 
 Please star, i'll fix mass checking at 50 stars or make a v2 with more options (stripe, braintree, paypal checker, etc)
 
+Skids, i know your just drooling at the sight of another open source project for you to steal, but let's maybe give me credit just this once, thanks!
+
 # Preview 
 <img width="383" alt="image" src="https://github.com/user-attachments/assets/57fe5c46-9774-4c0b-b35a-fb2406a134bc">
 <img width="329" alt="image" src="https://github.com/user-attachments/assets/8b95f6c3-d7ed-4a86-b39e-f0d5b74a6197">
@@ -27,6 +29,10 @@ The following are usable commands for the bot
 I do **NOT** condone using stolen or generated credit cards to make fraudulent purchases!
 
 This program is simply meant for people to learn mroe about how the discord billing API works
+
+# DEMO
+
+https://discord.gg/CwTZsFSWJR --> test the bot here for free 
 
 # CONTACT
 
